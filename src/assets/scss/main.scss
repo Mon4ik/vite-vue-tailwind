@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+// my UI lib:
+//  @import "@idkncc/frekui/scss/frekui.scss";
+
+a {
+  @apply text-blue-500 underline
+}
